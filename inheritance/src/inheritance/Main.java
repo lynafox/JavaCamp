@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		IndividualCustomer anil = new IndividualCustomer();
-		anil.customerNumber ="13216";
+		anil.customerNumber ="1316";
 			
 		
 		
