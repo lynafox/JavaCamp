@@ -21,7 +21,7 @@ public class Main {
 		}
 
 		else {
-			System.out.println("Dolar Eşit Resmi");
+			System.out.println("Dolar Eşt Resmi");
 		}
 
 		String[] krediler = { "Hızlı Kredi", "Mutlu emekeli kredisi", "Konut kredisi", "çiftçi kredisi", "msb kredisi",
