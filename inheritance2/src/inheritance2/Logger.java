@@ -5,3 +5,5 @@ public class Logger {
 		System.out.println("Ortak Operasyon");
 	}
 }
+
+//
