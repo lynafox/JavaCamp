@@ -6,7 +6,7 @@ public class Main {
 
 		String internetSubeButonu = "İnternet Şubesi";
 		double dolarDun = 8.20;
-		double dolarBugun = 8.20;
+		double dolarBugun = 8.21;
 		int vade = 36;
 		boolean dustuMu = false;
 
